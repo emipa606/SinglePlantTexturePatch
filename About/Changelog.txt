@@ -1,5 +1,8 @@
 # Changelog for SinglePlantTexturePatch
 
+1.0.2.0 - New script code
+
+
 1.0.1.0 - First real publish
 
 
