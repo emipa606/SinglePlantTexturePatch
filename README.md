@@ -1,25 +1,16 @@
 # SinglePlantTexturePatch
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of Lanilors mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1454231348
 based on the update by okradonkeys
 https://github.com/okradonkey/Simple-Mods-Collection/tree/master/Single%20Plant%20Textures%20Patch
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
-
-[table]
-	[tr]
-		[td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
-[/td]
-		[td]https://github.com/emipa606/SinglePlantTexturePatch]![Image](https://i.imgur.com/kTkpTOE.png)
-[/td]
-	[/tr]
-[/table]
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 A small patch that changes the textures of rice and haygrass to single plants. This gives a cleaner look and a small performance increase (probably really small, but may be noticeable with large fields on an old laptop).
 
@@ -27,7 +18,7 @@ See the preview image for an example.
 
 Can be added and removed from existing saves without problems.
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 
